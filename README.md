@@ -88,6 +88,7 @@ To draw over application the [SYSTEM_ALERT_WINDOW](https://developer.android.com
 
 # Documentation
 Code contains document comments, especially in RemoteDetector class. 
+All details will provide soon 
 
 # Credits to
 All Android malware analytics publishing their researches, especially for:
